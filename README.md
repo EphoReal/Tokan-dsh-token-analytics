@@ -54,9 +54,9 @@ An aggregate view across all restored sessions: total tokens, cost, waste signal
 | **JSON** | Current session / All sessions / Summary |
 | **CSV** | Current session / All sessions / Summary |
 
-### my-skin Integration
+### Easter Eggs
 
-Optionally syncs with the [my-skin](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) plugin's global saturation slider.
+Syncs with the [my-skin](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) plugin's global saturation slider.
 
 ---
 
@@ -106,9 +106,9 @@ Optionally syncs with the [my-skin](https://github.com/fthuu/my-skin-for-DeepSee
 | **JSON** | 当前会话 / 所有会话 / 摘要 |
 | **CSV** | 当前会话 / 所有会话 / 摘要 |
 
-### my-skin 集成
+### 彩蛋
 
-可选地与 [my-skin](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) 插件的全局饱和度滑条同步
+与 [my-skin](https://github.com/fthuu/my-skin-for-DeepSeek-Harness) 插件的全局饱和度滑条同步
 
 
 ## Screenshots / 截图
