@@ -188,4 +188,4 @@ Copyright (c) 2026 fthuu
 ## Author
 
 - Xiaohongshu/Rednote: @Epho
-- GitHub: https://github.com/fthuu
+- GitHub: [https://github.com/EphoReal](https://github.com/EphoReal)
